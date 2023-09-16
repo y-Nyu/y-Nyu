@@ -1,4 +1,4 @@
-<h1 align="center">Hola,👀 soy Rodrigo</h1>
+<h1 align="center">Hola👀, soy Rodrigo</h1>
 <h3 align="center">ah</h3>
 
 <h3 align="left">Conecta conmigo:</h3>

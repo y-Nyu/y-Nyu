@@ -3,9 +3,11 @@
 
 <p align="left">Finalizados mis estudios en Soy Henry<br><br>Busco seguir estudiando y aprendiendo nuevas tegnologías, a su vez de ir implementarlas en proyectos que vaya creando</p>
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="center">Conecta conmigo:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/orellana-rodrigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orellana-rodrigo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/orellana-rodrigo/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="35" alt="linkedin logo"  />
+</a>
 <a href="https://discord.com/MSGcamp" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="68" height="35" alt="discord logo"  />
 </a>

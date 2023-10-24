@@ -1,5 +1,7 @@
 <h1 align="center">Hola👀, soy Rodrigo</h1>
-<h3 align="center">ah</h3>
+<h3 align="center">Desarrollador Full Stack</h3>
+
+<p align="left">Finalizados mis estudios en Soy Henry<br><br>Busco seguir estudiando y aprendiendo nuevas tegnologías, a su vez de ir implementarlas en proyectos que vaya creando</p>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">

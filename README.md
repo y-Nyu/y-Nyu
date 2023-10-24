@@ -1,4 +1,4 @@
-<h1 align="center">Hola👀, soy Rodrigo</h1>
+<h1 align="center">Hi! Hi!👀, soy Rodrigo</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
 
 <p align="center">Soy una persona curiosa, pudiendo interesarme por varias cosas, investigandolas, estudiandolas y aprendiendolas. Así fué como me introduje en el mundo de la programación y conocí SoyHenry</p>

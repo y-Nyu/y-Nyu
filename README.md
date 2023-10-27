@@ -6,9 +6,6 @@
 
 <h3 align="center">Conecta conmigo:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/orellana-rodrigo/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="35" alt="linkedin logo"  />
-</a>
 <a href="https://discord.com/MSGcamp" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="68" height="35" alt="discord logo"  />
 </a>
